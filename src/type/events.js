@@ -1,0 +1,4 @@
+
+export const FETCH_ALL_EVENTS="FETCH_ALL_EVENTS";
+export const FETCH_SINGLE_EVENT="FETCH_SINGLE_EVENT";
+export const NEW_EVENT="NEW_EVENT";

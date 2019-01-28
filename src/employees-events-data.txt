@@ -1,0 +1,120 @@
+const events = [
+            {
+                eventId: 1001,
+                eventCode: 'SEMJQ3',
+                eventName: 'Seminar on jQuery 3.x',
+                description: 'Seminar will discuss all the new features of jQuery 3.x',
+                startDate: new Date(),
+                endDate: new Date(),
+                fees: 800,
+                seatsFilled: 70,
+                logo: 'images/jq3.png'
+            },
+            {
+                eventId: 1002,
+                eventCode: 'SEMNG1',
+                eventName: 'Seminar on Angular JS 1.5.x',
+                description: 'Seminar will discuss all the new features of Angular JS 1.5.x',
+                startDate: new Date(),
+                endDate: new Date(),
+                fees: 600,
+                seatsFilled: 50,
+                logo: 'images/ng1.png'
+            },
+            {
+                eventId: 1003,
+                eventCode: 'SEMNG2',
+                eventName: 'Seminar on Angular 2.x',
+                description: 'Seminar will discuss all the new features of Angular 2.x',
+                startDate: new Date(),
+                endDate: new Date(),
+                fees: 1000,
+                seatsFilled: 80,
+                logo: 'images/ng2.png'
+            },
+            {
+                eventId: 1004,
+                eventCode: 'SEMNG4',
+                eventName: 'Seminar on Angular 4.x',
+                description: 'Seminar will discuss all the new features of Angular 4.x',
+                startDate: new Date(),
+                endDate: new Date(),
+                fees: 1000,
+                seatsFilled: 76,
+                logo: 'images/ng2.png'
+            },
+            {
+                eventId: 1005,
+                eventCode: 'SEMBS3',
+                eventName: 'Seminar on Bootstrap 3.x',
+                description: 'Seminar will discuss all the new features of Bootstrap 3.x',
+                startDate: new Date(),
+                endDate: new Date(),
+                fees: 500,
+                seatsFilled: 34,
+                logo: 'images/bs3.png'
+            }
+           
+        ];
+
+        const employees = [{
+            employeeId: 101,
+            employeeName: "Subrat",
+            address: "Vandana pearls",
+            city: "Bangalore",
+            state: "Karnataka",
+            country: "India",
+            joiningDate: new Date(),
+            emailId: "Subr@gmail.com",
+            contactNumber: "8050947645"
+
+        },
+        {
+            employeeId: 102,
+            employeeName: "Sambit",
+            address: "Saikrupa Garden",
+            city: "Bangalore",
+            state: "Karnataka",
+            country: "India",
+            joiningDate: new Date(),
+            emailId: "Sambit@gmail.com",
+            contactNumber: "8722875678"
+
+        },
+        {
+            employeeId: 103,
+            employeeName: "Mukesh",
+            address: "lotus pearls",
+            city: "Bangalore",
+            state: "Karnataka",
+            country: "India",
+            joiningDate: new Date(),
+            emailId: "Mukesh@gmail.com",
+            contactNumber: "123456789"
+
+        },
+        {
+            employeeId: 104,
+            employeeName: "PP",
+            address: "lotus pearls",
+            city: "Bangalore",
+            state: "Karnataka",
+            country: "India",
+            joiningDate: new Date(),
+            emailId: "Mukesh@gmail.com",
+            contactNumber: "123456789"
+
+        }
+        ,{
+            employeeId: 105,
+            employeeName: "Pravin",
+            address: "lotus pearls",
+            city: "Bangalore",
+            state: "Karnataka",
+            country: "India",
+            joiningDate: new Date(),
+            emailId: "pravin@gmail.com",
+            contactNumber: "123456789"
+
+        }
+        ];
